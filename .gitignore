@@ -1,0 +1,8 @@
+*~
+\#*\#
+vgcore*
+coding-style-reports.log
+.vscode
+
+# uncoment to ignore main.c file
+# main.c
